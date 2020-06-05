@@ -1,0 +1,136 @@
+a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 100px;
+    border: 1px solid rgba(0, 0, 0, 0.87);
+    border-radius: 5%;
+    margin: 15px 30px;
+    background-color: rgba(255, 255, 255, 0.5);
+    color: black
+}
+li {
+    display: inline-block;
+}
+ul {
+    list-style: none;
+}
+.div-1 {
+    background-image: url("https://img2.goodfon.ru/original/2560x1024/f/e7/golden-pattern-vintage-2410.jpg");
+    display: flex;
+    justify-content: center;
+    width: 1800px;
+    margin: 0 auto;
+    border-radius: 4%;
+    background-size: auto 80px;
+}
+.car {
+    width: 1800px;
+    height: 1000px;
+    background-color: black;
+    background-image: url("https://dummyimage.com/300x180/555/fff.png");
+    background-size: 1800px 1000px;
+    margin: 2px auto;
+}
+.kar{
+    background-image: url("https://wall.cookdiary.net/sites/default/files/wallpaper/movie/72753/lord-rings-two-towers-wallpapers-hd-72753-5850979.png");
+}
+.text{
+    background-color: rgba(255, 255, 255, 0.8);
+    margin: 5px auto;
+    padding: 20px 15px;
+    width: 1400px;
+    height: 1000px;
+    border: rgba(0, 0, 0, 0.87);
+    border-radius: 3%;
+}
+.im{
+    width: 900px;
+    height: 450px;
+    background-color: black;
+    margin: 0px auto;
+    background-size: 900px 450px;
+}
+.b{
+    background-image: url("https://avatars.mds.yandex.net/get-zen_doc/192582/pub_5acf9490dcaf8eda2a87376a_5acf9795bcf1bcc1f2946fed/scale_1200");
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    margin: 0px 20px;
+}
+.foot{
+    width: 1800px;
+    height: 100px;
+    background-color: rgba(20, 51, 92, 0.9);
+    margin: 5px auto;
+}
+.f{
+    padding: 80px 0px 5px 10px;
+}
+.s{ 
+    padding: 50px 0px 5px 10px;
+}
+.fi{
+    width: 300px;
+    height: 400px ;
+    margin: 20px 50px;
+    background-color: rgba(0, 0, 0, 0.87);
+    background-size: 300px 400px;
+    display: inline-block;
+}
+.i{
+    background-image: url(https://i.pinimg.com/736x/0b/f7/65/0bf765894809acc1e97c270487b5544b--hobbit-films-amazing-people.jpg);
+}
+.fer{
+    width: 300px;
+    height: 400px ;
+    margin: 20px 40px;
+    background-color: rgba(0, 0, 0, 0.87);
+    background-size: 300px 400px;
+    display: inline-block;
+}
+.k{
+    background-image: url(https://www.film.ru/sites/default/files/styles/thumb_1024x450/public/news/24516762-920859.jpg);
+}
+.fur{
+    width: 500px;
+    height: 400px ;
+    margin: 20px 40px;
+    background-color: rgba(0, 0, 0, 0.87);
+    background-size: 500px 400px;
+    display: inline-block;
+}
+.o{
+    background-image: url(https://pbs.twimg.com/media/D3J6_jSXkAAEYNI.jpg);
+}     
+.a{
+    width: 200px;
+    height: 300px;
+    background-size: 200px 300px;
+    display: inline-block;
+    margin: 20px 130px;
+}
+.b3{
+    background-image: url(https://i.pinimg.com/736x/12/e9/8a/12e98a2ef6bb62d49c2e21d2da7d09be--lord-of-the-rings-the-lord.jpg);
+}
+.b4{
+    background-image: url(https://s5-goods.ozstatic.by/2000/519/658/10/10658519_0.jpg);
+}
+.b5{
+    background-image: url(https://knigamir.com/upload/iblock/076/07649949ecf9c8d7518abbe192c764bb.jpg);
+}
+.b6{
+    background-image: url(https://s2-goods.ozstatic.by/2000/223/491/10/10491223_0.jpg);
+}
+.a1{
+    width: 200px;
+    height: 300px;
+    margin: 20px 30px;
+    background-size: 200px 300px;
+    margin: 20px 600px;
+}
+.shr{
+    font-size: 25px;
+}
